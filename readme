@@ -1,0 +1,4 @@
+Sample codes for compiling multi source files
+  -- without creating library
+  -- creating static library
+  -- creating dynamic library
