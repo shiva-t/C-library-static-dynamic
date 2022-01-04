@@ -1,0 +1,11 @@
+The code has 2 source files for DLL functions implementation
+  dll.c and dll_cleanup.c
+Common header is dll.h
+
+The above DLL implementtaion has to be used by an applcation (app.c) to store a dummy employee information
+
+In this case compilation is done using static library and Makefile:
+
+To run the code :
+$ make
+$ ./run.exe
